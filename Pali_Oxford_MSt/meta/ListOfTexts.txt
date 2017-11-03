@@ -1,0 +1,12 @@
+Angulimala Sutta, Majjhima Nikaya MN 86 | chrome://digitalpalireader/content/index.xul?loc=m.1.0.0.3.5.0.m&query=a%E1%B9%85gulim%C4%81la&para=1
+Yodhajiva Sutta, Samyutta Nikaya SN 42.3 | chrome://digitalpalireader/content/index.xul?loc=s.3.0.0.7.0.2.m
+Bhaddekaratta Sutta, Majjhima Nikaya MN 131 | chrome://digitalpalireader/content/index.xul?loc=m.2.0.0.3.0.0.m&query=bhaddekaratta&para=1
+Mahagovinda Sutta, Digha Nikaya DN 19 | chrome://digitalpalireader/content/index.xul?loc=d.1.0.0.5.x.x.m
+Upasampada kammavaca (Dickson, JRAS 1885) (Vinaya, Khandaka, Mahavagga) |
+Upasampadavidhi, Mahavagga, Vinaya ??? in previous folder
+Kammavaggo, Pancavaggo, Parivara, Vinaya, sections 482 and 485. | chrome://digitalpalireader/content/index.xul?loc=v.5.18.0.0.0.0.m
+Parivara Atthakatha, Vinaya, sections 484 and 485 | chrome://digitalpalireader/content/index.xul?loc=v.5.17.0.0.0.0.a
+Jataka 148, 113 and 407, Khuddaka Nikaya | chrome://digitalpalireader/content/index.xul?loc=k.13.0.2.14.7.0.a&analysis=caapi&frombox=0 , chrome://digitalpalireader/content/index.xul?loc=k.13.0.2.11.2.0.a&analysis=caapi&frombox=0, chrome://digitalpalireader/content/index.xul?loc=k.13.2.3.1.1.0.a&analysis=caapi&frombox=0
+Bhikkhuni Vagga, Samyutta Nikaya, Suttas 1–5 | chrome://digitalpalireader/content/index.xul?loc=s.0.0.0.4.0.0.m&analysis=itthattaaya
+Bhikkhuni pācittiyas 8&9, Sutta vibhanga | chrome://digitalpalireader/content/index.xul?loc=v.2.0.0.3.0.7.m&analysis=bandhakiniyo, chrome://digitalpalireader/content/index.xul?loc=v.2.0.0.3.0.8.m
+Vaccakuṭivatta, Cullavagga 8.9, Khandhaka | chrome://digitalpalireader/content/index.xul?loc=v.4.0.0.7.9.0.m
