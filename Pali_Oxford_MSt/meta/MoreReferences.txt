@@ -1,0 +1,89 @@
+
+Unsupervised Learning of Word Boundary with Description Length Gain
+https://www.researchgate.net/publication/2623890_Unsupervised_Learning_of_Word_Boundary_with_Description_Length_Gain
+
+http://users.ics.aalto.fi/mcreutz/papers/Creutz02.morpho.pdf
+
+https://ai2-s2-pdfs.s3.amazonaws.com/9a55/a63ce8fc4d9723db92f2f27bcd900e93d1da.pdf
+
+http://www.aclweb.org/anthology/E06-2023
+
+https://helda.helsinki.fi/bitstream/handle/10138/165924/javadthesis05final.pdf?sequence=2 (MSc Thesis, great)
+
+http://people.cs.uchicago.edu/~jagoldsm/Papers/GLX.pdf
+
+http://people.cs.uchicago.edu/~jagoldsm/Papers/algorithm.pdf
+
+http://www.helsinki.fi/~sund/pdf/sund_mdl.pdf
+
+
+https://arxiv.org/abs/1204.6423
+
+The Dhammapada translated by John Ross Carter and Mahinda Palihawadana (translated the parts that Burlingame Didn't. Burlingame only translated the narrative, they here did the word explanation commentary)
+
+
+
+Damian Evans, Airborne laser scanning as a method for exploring long-term socio-ecological dynamics in Cambodia, Journal of Archaeological Science, Volume 74, October 2016, Pages 164-175, ISSN 0305-4403, http://dx.doi.org/10.1016/j.jas.2016.05.009.
+(http://www.sciencedirect.com/science/article/pii/S0305440316300644)
+
+
+Body of Devotion: The Cosmic Buddha in 3D January 30–December 2016 Arthur M. Sackler Gallery in Washington D.C. http://www.asia.si.edu/exhibitions/current/cosmic-buddha.asp For a 3D visualization see https://www.youtube.com/watch?v=pl2oAfaSlPg
+
+Chaṭṭha Saṅgāyana Tipiṭaka, Digital Pali Reader, Sanskrit Manuscripts project at Cambridge, Search and Retrieval of Indic Texts, Cologne Digital Sanskrit Dictionaries, Śāstravid
+
+International Dunhuang Project, Thesaurus Linguae Sericae 漢學文典, Chinese Buddhist Electronic Text Association, Textual Analysis for Corpus Linguistics
+
+Tibetan and Himalayan Library, Tibetan Buddhist Resource Center, Asian Classics Input Project
+
+
+David Alfter, Jürgen Knauth. Morphological Analysis and Generation for Pali. Systems and Frameworks for Computational Morphology. Volume 537 of the series Communications in Computer and Information Science. pp 60-71.09 December 2015.
+
+Maya Hohle
+
+amara vikepa vara - eel wriggler
+
+Turner comparative dictionary of indoeuropean - manta, mantra, E. mouth
+
+Epilogomena of the Critical Pali Dictionary
+- abbreviations become standard
+DA - Digha Atthakatha
+
+mantāyaṃ - LOC of fem.
+Buddhaghosa said LOC is to be read as INS
+
+Michael Gorman - Fundamentals of Biblical Exegesis
+Textbook for seminaries, biblical studies
+
+Kingsbury - chronology for P canon, computer analysis of whole corpus, based on the aorist, occurences of aorist across
+- if he had a career, he would have had follow-up questions
+
+David Baker - Shepher of Hermas, employs a number of statistical methods, developing authorial signatures for this multi-author text
+
+
+
+Daniel Veidlinger, Ph.D.
+Professor, Department of Comparative Religion and Humanities
+
+dveidlinger@csuchico.edu
+
+393 Arts and Humanities Building
+Department of Comparative Religion and Humanities
+California State University, Chico
+Chico, CA 95929
+
+
+ywilks@ihmc.us
+10 London Place OX4 1BD
+
+
+Professor of Artificial Intelligence (Emeritus),  University of Sheffield
+Senior Research Fellow, Oxford Internet Institute
+Senior Scientist, Florida Institute for Human and Machine Cognition
+Member, the Epiphany Philosophers, Cambridge
+
+
+
+
+
+
+
