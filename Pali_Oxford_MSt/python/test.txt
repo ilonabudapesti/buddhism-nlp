@@ -1,0 +1,56 @@
+01 Angulimala MN86.txt imasmiṃ 0
+[]
+02 Yodhajiva SN42.3.txt imasmiṃ 0
+[]
+03 Baddhekaratta MN131.txt imasmiṃ 0
+[]
+04 Mahagovinda DN19.txt imasmiṃ 0
+[]
+06 Kammavācā.txt imasmiṃ 0
+[]
+06 Upasampadaviddhi V.txt imasmiṃ 0
+[]
+07 Parivārapāḷi V482, 485.txt imasmiṃ 0
+[]
+08 Parivāra-aṭṭhakathā V484-5 linguistics.txt imasmiṃ 0
+[]
+09 Jataka 113 A.txt imasmiṃ 0
+[]
+09 Jataka 148 A.txt imasmiṃ 1
+['so “laddhaṃ dāni me imasmiṃ sarīre mudu khāditabbayuttakaṭṭhānan”ti tato paṭṭhāya khādanto antokucchiṃ pavisitvā vakkahadayādīni khāditvā pipāsitakāle lohitaṃ pivitvā nipajjitukāmakāle udaraṃ pattharitvā nipajjati.']
+09 Jataka 407 A.txt imasmiṃ 0
+[]
+10 Bhikkhunīsaṃyutta SN5.1-5.txt imasmiṃ 0
+[]
+11 Bhikkhuni pācittiya 8-9.txt imasmiṃ 2
+['♦ 826. yā P.4.266 panāti yā yādisā ... pe ... bhikkhunīti ... pe ... ayaṃ imasmiṃ atthe adhippetā bhikkhunīti.', '♦ 830. yā panāti yā yādisā ... pe ... bhikkhunīti ... pe ... ayaṃ imasmiṃ atthe adhippetā bhikkhunīti.']
+12 Vaccakuṭivatta V.txt imasmiṃ 0
+[]
+01 Angulimala MN86.txt imasmiṃ 0
+[]
+02 Yodhajiva SN42.3.txt imasmiṃ 0
+[]
+03 Baddhekaratta MN131.txt imasmiṃ 0
+[]
+04 Mahagovinda DN19.txt imasmiṃ 0
+[]
+06 Kammavācā.txt imasmiṃ 0
+[]
+06 Upasampadaviddhi V.txt imasmiṃ 0
+[]
+07 Parivārapāḷi V482, 485.txt imasmiṃ 0
+[]
+08 Parivāra-aṭṭhakathā V484-5 linguistics.txt imasmiṃ 0
+[]
+09 Jataka 113 A.txt imasmiṃ 0
+[]
+09 Jataka 148 A.txt imasmiṃ 1
+['so “laddhaṃ dāni me imasmiṃ sarīre mudu khāditabbayuttakaṭṭhānan”ti tato paṭṭhāya khādanto antokucchiṃ pavisitvā vakkahadayādīni khāditvā pipāsitakāle lohitaṃ pivitvā nipajjitukāmakāle udaraṃ pattharitvā nipajjati.']
+09 Jataka 407 A.txt imasmiṃ 0
+[]
+10 Bhikkhunīsaṃyutta SN5.1-5.txt imasmiṃ 0
+[]
+11 Bhikkhuni pācittiya 8-9.txt imasmiṃ 2
+['♦ 826. yā P.4.266 panāti yā yādisā ... pe ... bhikkhunīti ... pe ... ayaṃ imasmiṃ atthe adhippetā bhikkhunīti.', '♦ 830. yā panāti yā yādisā ... pe ... bhikkhunīti ... pe ... ayaṃ imasmiṃ atthe adhippetā bhikkhunīti.']
+12 Vaccakuṭivatta V.txt imasmiṃ 0
+[]
