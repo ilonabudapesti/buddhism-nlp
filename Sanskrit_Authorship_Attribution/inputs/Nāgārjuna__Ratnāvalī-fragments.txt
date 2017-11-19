@@ -1,0 +1,893 @@
+|| namo ratnatrayāya ||
+
+sarvadoṣavinirmuktaṃ guṇaiḥ sarvair alaṃkṛtaṃ |
+
+praṇamya sarvajñam ahaṃ sarvasattvaikabāndhavaṃ || RATNA_01.01
+
+dharmam ekāntakalyāṇaṃ rāja [ n dha ] rmodayāya te |
+
+vakṣyāmi dharmaḥ siddhiṃ hi yāti saddharmabhājane || RATNA_01.02
+
+prāg dharmābhyudayo yatra paścān naiḥśreyasodayaḥ |
+
+samprāpyābhyudayaṃ yasmād eti naiḥśreyasaṃ kramāt || RATNA_01.03
+
+sukham abhyudaya [ s tatra mokṣo ] naiḥśreyaso mataḥ |
+
+asya sādhanasaṃkṣepaḥ śraddhāprajñe samāsataḥ || RATNA_01.04
+
+śrāddhatvād bhajate dharmaṃ prājñatvād vetti tattvataḥ |
+
+prajñā pradhānaṃ tv anayoḥ śraddhā pūrvaṅgamāsya tu || RATNA_01.05
+
+chandād dveṣād bhayān mohād yo dharmaṃ nātivartate |
+
+sa śrāddha iti vijñeyaḥ śreyaso bhājanaṃ param || RATNA_01.06
+
+kāyavāṅmānasaṃ karma sarvaṃ samyak parīkṣya yaḥ |
+
+parātmahitam ājñāya sadā kuryāt sa paṇḍitaḥ || RATNA_01.07
+
+ahiṃsā cauryaviratiḥ paradāravivarjanam |
+
+mithyāpaiśunyapāruṣyābaddhavādeṣu saṃyamaḥ || RATNA_01.08
+
+lobhavyāpādanāstik [ yadṛṣṭīnāṃ parivarjanaṃ |
+
+ete karmapathā ] śuklā daśa kṛṣṇā viparyayāt || RATNA_01.09
+
+amadyapānaṃ svājīvo 'vihiṃsā dānam ādarāt |
+
+pūjyapūjā ca maitrī ca dharmaś caiṣa samāsataḥ || RATNA_01.10
+
+śarīratāpanād dharmaḥ kevalān [ nāsti tena hi ] |
+
+[ 2,a ] na paradrohaviratir na pareṣām anugrahaḥ || RATNA_01.11
+
+dānaśīlakṣamāspaṣṭaṃ yaḥ saddharmamahāpatham |
+
+anādṛtya vrajet kāyakleśago daṇḍakotpathaiḥ || RATNA_01.12
+
+sa saṃsārāṭavīṃ ghorām anantajanapādapām |
+
+kleśavyālāvalīḍhāṅgaḥ sudīrghaṃ pratipadyate || RATNA_01.13
+
+hiṃsayā jāyate 'lpāyuḥ bahvābādho vihiṃsayā |
+
+cauryeṇa bhogavyasanī saśa [ truḥ ] paradārikaḥ || RATNA_01.14
+
+pratyākhyānaṃ mṛṣāvādāt paiśunyāt mitrabhedanam |
+
+apriyaśravaṇaṃ raukṣyād abāddhād durbhagaṃ vacaḥ || RATNA_01.15
+
+manorathān hanty abhidhyā vyāpādo bhayadaḥ smṛtaḥ |
+
+mithyādṛṣṭiḥ kudṛṣṭitvaṃ madyapānaṃ matibhramaḥ || RATNA_01.16
+
+apradānena dāridryaṃ mithyājivena vañcanā |
+
+stambhena duḥkuḷīnatvam alpaujaskatvam īrṣayā || RATNA_01.17
+
+krodhād durvarṇatā maurkhyam apraśnena vipaścitām |
+
+phalam etan manuṣyatve sarvebhyaḥ prāk ca durgatiḥ || RATNA_01.18
+
+esāṃ akuśalākhyānāṃ vipāko yaḥ prakīrtitaḥ |
+
+kuśalānāṃ ca sarveṣāṃ viparītaḥ phalodayaḥ || RATNA_01.19
+
+lobho dveṣaś ca mohas ca tajjaṃ karmeti cāśubham |
+
+alobhāmohādveṣāś ca tajjaṃ karmetarac chubhaṃ || RATNA_01.20
+
+aśubhāt sarvaduḥkhāni sarvadurgatayas tathā |
+
+śubhāt sugatayaḥ sarvāḥ sarvajanmasukhāni ca || RATNA_01.21
+
+nivṛttir [ 2,b ] aśubhāt kṛtsnāt pravṛttis tu śubhe sadā |
+
+manasā karmaṇā vācā dharmo 'yaṃ dvividhaḥ smṛtaḥ || RATNA_01.22
+
+narakapretatiryagbhyo dharmād asmād vimucyate |
+
+nṛṣu deveṣu cāpnoti sukhaśrīrājyavistarān || RATNA_01.23
+
+dhyānāpramāṇārūpyais tu brahmādyasukham aśnute |
+
+ityabhyudayadharmo 'yaṃ phalaṃ cāsya samāsataḥ || RATNA_01.24
+
+naiḥśreyasaḥ punar dharmaḥ sūkṣmo gambhīradarśanaḥ |
+
+bālānāṃ [ aśrotravatām ] uktas trāsakāro jinaiḥ || RATNA_01.25
+
+nāsmy ahaṃ na bhaviṣyāmi na me 'sti na bhaviṣyati |
+
+iti bālasya santrāsaḥ paṇḍitasya bhayakṣayaḥ || RATNA_01.26
+
+ahaṃkāraprasūteyaṃ mamakāropasaṃhitā |
+
+prajā prajāhitaikāntavādinā 'bhihitā khila || RATNA_01.27
+
+asty ahaṃ mama cāstīti mithyaitat paramārthataḥ |
+
+yathābhūtaparijñānān na bhavaty ubhayam yataḥ || RATNA_01.28
+
+ahaṃkārodbhavāḥ skandhāḥ so 'haṃkāro 'nṛto 'rthataḥ |
+
+bījaṃ yasyānṛtaṃ tasya prarohaḥ satyataḥ kutaḥ || RATNA_01.29
+
+skandhān asatyān dṛṣṭvaivam ahaṃkāraḥ prahīyate |
+
+ahaṃkāraprahāṇāc ca na punaḥ skandhasaṃbhavaḥ || RATNA_01.30
+
+yathādarśam upādāya [ svamukhapratibimbakam |
+
+dṛśya ] te nāma tac caivam na kiṃcid api tattvataḥ || RATNA_01.31
+
+ahaṃkāras tathā skandhān upādāyopalabhyate |
+
+na ca kaścit sa tattvena svamukhapratibimbavat || RATNA_01.32
+
+yathādarśam anādāya svamukhapratibimbakam |
+
+na dṛśyate tathā skandhān [ 3,a ] anādāyāham ity api || RATNA_01.33
+
+evaṃvidhārthaśravaṇād dharmacakṣur avāptavān |
+
+āryānanandaḥ svayaṃ caiva bhikṣubhyo 'bhīkṣṇam uktavān || RATNA_01.34
+
+skandhagrāho yāvad asti tāvad evāham ity api |
+
+ahaṃkāre sati punaḥ karma janma tataḥ punaḥ || RATNA_01.35
+
+trivartmaitad anādyantamadhyaṃ saṃsāramaṇḍalaṃ |
+
+alātamaṇḍalaprakhyaṃ bhramaty anyonyahetukaṃ || RATNA_01.36
+
+svaparobhayatas tasya traikālyato 'py aprāptitaḥ |
+
+ahaṃkāraḥ kṣayaṃ yāti tataḥ karma ca janma ca || RATNA_01.37
+
+evaṃ hetuphalotpādaṃ paśyaṃs tatkṣayaṃ eva ca |
+
+nāstitām astitāṃ caiva naiti lokasya tattvataḥ || RATNA_01.38
+
+sarvaduḥkhakṣayaṃ dharmaṃ śrutvaivam aparīkṣakaḥ |
+
+saṃkampaty aparijñānād abhayasthānakātaraḥ || RATNA_01.39
+
+na bhaviṣyati nirvāṇe sarvam etan na te bhayam |
+
+ucyamāna ihābhāvas tasya te kiṃ bhayaṃkaraḥ || RATNA_01.40
+
+mokṣe nātmā na ca skandhā mokṣaś ced īdṛṣaḥ priyaḥ |
+
+ātmaskandhāpanayanaṃ kim ihaiva tavāpriyaṃ || RATNA_01.41
+
+na cābhāvo 'pi nirvāṇaṃ kuta eva tasya bhāvatā |
+
+bhāvābhāvaparāmarśakṣayo nirvāṇam ucyate || RATNA_01.42
+
+samāsān nāstitādṛṣṭiḥ phalaṃ nāstīti karmaṇaḥ |
+
+apuṇyāpāyikī caiṣā mithyādṛṣṭir iti smṛtā || RATNA_01.43
+
+samāsād astitādṛṣtiḥ phalaṃ cāstīti karmaṇām |
+
+puṇyā sugatiniṣyandā samyagdṛṣṭir iti smṛtā || RATNA_01.44
+
+jñāne [ 3,b ] nāstyastitāśānteḥ pāpapuṇyavyatikramaḥ |
+
+durgateḥ sugateś cāsmāt sa mokṣah sadbhir ucyate || RATNA_01.45
+
+sahetum udayaṃ paśyan nāstitām ativartate |
+
+astitām api nopaiti nirodhaṃ saha hetunā || RATNA_01.46
+
+prāgjātaḥ sahajātaś ca hetur ahetuko 'rthataḥ |
+
+prajñapter apratītatvād utpatteś caiva tattvataḥ || RATNA_01.47
+
+asmin satīdaṃ bhavati dīrghe hrasvaṃ yathā sati |
+
+[ tasyotpādād udetīdaṃ dīpotpādād yathā ] prabhā || RATNA_01.48
+
+hrasve 'sati punar dīrghaṃ na bhavati svabhāvataḥ |
+
+pradīpasyāpy anutpādāt prabhāyā apy asaṃbhavaḥ || RATNA_01.49
+
+evaṃ hetuphalotpādaṃ dṛṣtvā nopaiti nāstikyaṃ |
+
+abhyupetyāsya lokasya yāthābhūtyaṃ prapañcajam || RATNA_01.50
+
+nirodhaṃ ca prapañcotthaṃ yāthābhūtyād upāgataḥ |
+
+nopayāty astitāṃ tasmān mucyate 'dvayaniśritaḥ || RATNA_01.51
+
+durād ālokitaṃ rūpam āsannair dṛśyate sphuṭam |
+
+marīcir yadi vāri syād āsannaiḥ kiṃ na dṛśyate || RATNA_01.52
+
+dūrībhūtair yathābhūto loko 'yaṃ dṛśyate tathā |
+
+na dṛśyate tadāsannair animitto marīcivat || RATNA_01.53
+
+[ marīcis toyasadṛśī yathā nāmbo na ] cārthataḥ |
+
+skandhās tathātmasadṛśā natmāno nāpi te 'rthataḥ || RATNA_01.54
+
+mariciṃ toyam ity etad iti matvāgato 'tra san |
+
+yadi nāstīti tat toyaṃ [ gṛhṇīyān mūḍha eva saḥ || RATNA_01.55
+
+marīcipratimaṃ lo ] kam [ 4,a ] evam astīti gṛhṇataḥ |
+
+nāstīti cāpi moho 'yaṃ sati mohe na mucyate || RATNA_01.56
+nāstiko durgatiṃ yāti sugatiṃ yāti cāstikaḥ |
+
+yathābhūtaparijñānān mokṣam advayaniśritaḥ || RATNA_01.57
+
+anicchan nāstitāstitve yathābhūtaparijñayā |
+
+nāstitāṃ labhate mohāt kasmān na labhate 'stitāṃ || RATNA_01.58
+
+syād astidūṣaṇād asya nāstitākṣipyate 'rthataḥ |
+
+nāstitādūṣanād eva kasmān nākṣipyate 'stitā || RATNA_01.59
+
+na pratijñā na caritaṃ na cittaṃ bodhiniśrayāt |
+
+nāstikatve 'rthato yeṣāṃ kathaṃ te nāstikāḥ smṛṭāḥ || RATNA_01.60
+
+sasāṃkhyaulūkyanirgranthapudgalaskandhavādinam |
+
+pṛccha lokaṃ yadi vadaty astināstivyatikramam || RATNA_01.61
+
+dharmayautakam ity asmān nāstyastitvavyatikramam |
+
+viddhi gaṃbhīram ity uktaṃ buddhānāṃ śāsanāmṛtam || RATNA_01.62
+
+vibhavaṃ naiti nāyāti na tiṣṭhaty api cakṣaṇam |
+
+traikālyavyativṛttātmā loka eva kuto 'rthataḥ || RATNA_01.63
+
+dvayor apy āgatigatī prasthitiś ca na tattvataḥ |
+
+lokanirvāṇayos tasmād viśeṣaḥ ka ivārthataḥ || RATNA_01.64
+
+sthiter abhāvād udayo nirodhaś ca na tattvataḥ |
+
+uditaḥ sthitaś ceti niruddhaś ca kuto 'rthataḥ || RATNA_01.65
+
+katham aksaṇiko bhāvaḥ pariṇāmaḥ sadā yadi |
+
+nāsti cet pariṇāmaḥ syād anyathātvaṃ kuto 'rthataḥ || RATNA_01.66
+
+ekadeśe [ 4,b ] kṣayād vā syāt kṣaṇikaṃ sarvaśo 'pi vā |
+
+vaiṣamyānupalabdheś ca dvidhāpy etad ayuktimat || RATNA_01.67
+
+kṣaṇike sarvathā bhāvet kutaḥ kācit purāṇatā |
+
+sthairyād akṣaṇike cāpi kutaḥ kācit purāṇatā || RATNA_01.68
+
+yathānto 'sti kṣaṇasyaivam ādir madhyaṃ ca kalpyatām |
+
+tryātmakatvāt kṣaṇasyaivaṃ na lokasya kṣaṇaṃ sthitiḥ || RATNA_01.69
+
+ādimadhyāvasānāni c [ intyāni kṣaṇavat punaḥ |
+
+ādimadhyā ] vasānatvaṃ na svataḥ parato 'pi vā || RATNA_01.70
+
+naiko 'nekapradeśatvān nāpradeśaś ca kaścana |
+
+vinaikam api nāneko nāstitvam api cāstitām || RATNA_01.71
+
+vināśāt pratipakṣād vā syād astitvasya nāstitā |
+
+vināśaḥ pratipakṣo vā kathaṃ syād astyasaṃbhavāt || RATNA_01.72
+
+nirvṛtes tena lokasya nopaity ūnatvam arthataḥ |
+
+antavān iti lokaś ca pṛṣṭas tuṣṇīṃ jino 'bhavat || RATNA_01.73
+
+sarvajña iti sarvajño budhais tenaiva gamyate |
+
+yenaitad dharmagāmbhīryaṃ novācābhājane loke || RATNA_01.74
+
+iti naiḥśreyaso dharmo gambhīro niṣparigrahaḥ |
+
+anālaya ity proktaḥ saṃbuddhais tattvadarśibhiḥ || RATNA_01.75
+
+asmād anālayād dharmād ālayābhiratā janāḥ |
+
+astināstyavyatikrantā bhītā naśyanty amedhasaḥ || RATNA_01.76
+
+te naṣṭā nāśayanty anyān abhayasthānabhīravaḥ |
+
+tathā kuru yathā rājan naṣṭair na vipranāśyase || RATNA_01.77
+
+[ 6a ] kadalī pāṭitā yadvan niḥśeṣāvayavaiḥ saha |
+
+na kiṃcit puruṣas tadvat pāṭitaḥ saha dhātubhiḥ || RATNA_02.01
+
+sarvadharmā anātmāna ity ato bhāṣitaṃ jinaiḥ |
+
+dhātuṣaṭkaṃ ca taiḥ sarvaṃ nirṇītaṃ tac ca nārthataḥ || RATNA_02.02
+
+naivam ātmā na cānātmā yāthābhūtyena labhyate |
+
+ātmānātmakṛtadṛṣṭī varvārāsmān mahāmuniḥ || RATNA_02.03
+
+dṛṣṭaśruṭādyaṃ muninā na satyaṃ na mṛṣoditaṃ |
+
+pakṣāddhi pratipakṣaḥ syād ubhayaṃ tac ca nārthataḥ || RATNA_02.04
+
+iti satyānṛtātīto loko 'yaṃ paramārthataḥ |
+
+asmād eva ca tattvena nopaity asti ca nāsti ca || RATNA_02.05
+
+yac caivaṃ sarvathā neti sarvajñas tat kathaṃ vadet |
+
+sāntam ity athavānantaṃ dvayaṃ vādvayam eva vā || RATNA_02.06
+
+asaṃkhyeyā gatā buddhās tathaiṣyanty atha sāṃpratāḥ |
+
+koṭyagraśaś ca sattvāntas tebhyas traikālyajo mataḥ || RATNA_02.07
+
+vṛddhihetur na lokasya kṣayas traikālyasambhavaḥ |
+
+sarvajñena kathaṃ tasya pūrvānto 'vyākṛtaḥ kṛtaḥ || RATNA_02.08
+
+etat tu dharmagāmbhīryaṃ yat tad guhyaṃ pṛthagjane |
+
+māyopamatvaṃ lokasya buddhānāṃ śāsanāmṛtaṃ || RATNA_02.09
+
+māyāgajasya dṛśyeta yathā janmānta eva ca |
+
+na ca kaścit sa tattvena janmāntaś caiva vidyate || RATNA_02.10
+
+māyopamasyalokasya tathā janmānta eva ca |
+
+dṛśyate paramārthena na ca janmānta eva ca || RATNA_02.11
+
+yathā māyāgajo naiti kutaścid yāti [ 6b ] na kvacit |
+
+cittamohanamātratvād bhāvatvena na tiṣṭhati || RATNA_02.12
+
+tathā māyopamo loko naiti yāti na kutracit |
+
+cittamohanamātratvād bhāvatvena na tiṣṭhati || RATNA_02.13
+
+traikālyavyativṛttātmā loka evaṃ nu ko 'rthataḥ |
+
+yo 'sti nāsty athavāpi syād anyatra vyavahārataḥ || RATNA_02.14
+
+catuṣprakāram ity asmāt sānto 'nanto dvayo 'dvayaḥ |
+
+buddhena hetor nānyasmād ayam avyākṛtaḥ kṛtaḥ || RATNA_02.15
+
+śarīrāśucitā tāvan sthūlā pratyakṣagocarā |
+
+satataṃ dṛśyamānāpi yadā citte na tiṣṭhati || RATNA_02.16
+
+tadātisūkṣmo gambhīraḥ saddharmo 'yaṃ anālayaḥ |
+
+apratyakṣaḥ kathaṃ citte sukhenāvatariṣyati || RATNA_02.17
+
+sambudhyāsmān nirvṛtto 'bhūd dharmaṃ deśayituṃ muniḥ |
+
+durjñānam atigāmbhiryāj jñātvā dharmam imaṃ janaiḥ || RATNA_02.18
+
+vināśayati durjñāto dharmo 'yam avipaścitaṃ |
+
+nāstitādṛṣṭisamale yasmād asmin nimajjati || RATNA_02.19
+
+aparo 'py asya durjñānān mūrkhaḥ paṇḍitamānikaḥ |
+
+pratikṣepavinaṣṭātmā yāty avīcim adhomukhaḥ || RATNA_02.20
+
+durbhuktena yathānnena vināśam adhigacchati |
+
+subhuktenāyur ārogyaṃ balaṃ saukhyāni cāśnute || RATNA_02.21
+
+durjñātena tathānena vināśam adhigacchati |
+
+samyagjñātenātra sukhaṃ bodhiṃ cāpnoty anuttarāṃ || RATNA_02.22
+
+tasmād atra pratikṣepaṃ dṛṣṭiṃ tyaktvā ca nāstikīṃ |
+
+saṃyagjñānaparaṃ yatnaṃ kuru [ 7a ] sarvārthasiddhaye || RATNA_02.23
+
+dharmasyāsyāparijñānād ahaṃkāro 'nuvartate |
+
+tataḥ śubhāśubhaṃ karma tato janma śubhāśubhaṃ || RATNA_02.24
+
+tasmād yāvad avijñāto dharmo 'haṃkāraśātanaḥ |
+
+dānaśīlakṣamādharme tāvad ādaravān bhava || RATNA_02.25
+
+dharmapūrvāṇi kāryāṇi dharmamadhyāni pārthiva |
+
+sādhayan dharmaniṣṭhāni neha nāmutra sīdati || RATNA_02.26
+
+dharmāt kīrtiḥ sukhaṃ caiva neha bhīr na mumūrṣataḥ |
+
+paralokasukhaṃ sphītaṃ tasmād dharmaṃ sadā bhaja || RATNA_02.27
+
+dharma eva parā nītir dharmāl loko 'nurajyate |
+
+rañjitena hi lokena neha nāmutra vañcyate || RATNA_02.28
+
+adharmeṇa tu yā nītis tayā loko 'parajyate |
+
+lokāparañjanāc caiva neha nāmutra nandati || RATNA_02.29
+
+parātisandhānaparā kaṣṭā durgatipaddhatiḥ |
+
+anarthavidyā duṣprajñair arthavidyā kathaṃ kṛtā || RATNA_02.30
+
+parātisandhānaparo nītimān katham arthataḥ |
+
+yena janmasahasrāṇi bahūny ātmaiva vañcyate || RATNA_02.31
+
+ripor apriyam anvicchan dosāṃs tyaktvā guṇān śraya |
+
+svahitāvāptir eva tu ripos cāpy apriyaṃ bhavet || RATNA_02.32
+
+dānena priyavadyena hitenaikāthacaryayā |
+
+ebhir ācara lokasya dharmasyaiva ca saṅgrahaṃ || RATNA_02.33
+
+viśvāsaṃ janayaty ekaṃ satyaṃ rājñāṃ yathā dṛḍhaṃ |
+
+tathaivābhūtam apy eṣām aviśvāsakaraṃ paraṃ || RATNA_02.34
+
+nāvisaṃvādavat satyaṃ [ sattve ] [ 7b ] odgataṃ arthataḥ |
+
+paraikāntahitaṃ satyam ahitatvān mṛṣetarat || RATNA_02.35
+
+doṣān pracchādayaty ekas tyāgo rājñāṃ yathojjvalaḥ |
+
+tathā kārpaṇyam apy eṣāṃ guṇasarvasvaghātakaṃ || RATNA_02.36
+
+upaśāntasya gāmbhīryaṃ gāmbhīryād gauravaṃ paraṃ |
+
+gauravād dīptir ājñā ca tasmād upaśamaṃ bhaja || RATNA_02.37
+
+ahāryabuddhiḥ prājñatvād aparapratyayaḥ sthiraḥ |
+
+nātisandhīyate rājā tasmāt prajñāparo bhava || RATNA_02.38
+
+satyatyāgaśamaprajño caturbhadro narādhipaḥ |
+
+dharmaś caturbhadra iva stūyate devamānuṣaiḥ || RATNA_02.39
+
+nigṛhyavādibhiḥ śuddhaiḥ prajñākāruṇyanirmalaiḥ |
+
+sahāsīnasya satataṃ prajñā dharmaś ca varddhate || RATNA_02.40
+
+durlabhāḥ pathyavaktāraḥ śrotāras tv atidurlabhāḥ |
+
+tebhyo 'tidurlabhatamā ye pathyasyāśu kāriṇaḥ || RATNA_02.41
+
+pathyam apy apriyaṃ tasmāj jñātvā śīghraṃ samācara |
+
+pibed auṣadham apy ugram ārogyāyātmavān iva || RATNA_02.42
+
+jīvitārogyarājyānāṃ cintayānityatāṃ sadā |
+
+tataḥ saṃvegavān dharmam ekāntena prayāsyase || RATNA_02.43
+
+avaśyaṃ maraṇaṃ paśyan pāpād duḥkhaṃ mṛtasya ca |
+
+aihikena sukhenāpi na pāpaṃ kṣātum arhasi || RATNA_02.44
+
+kasmiṃś ced abhayaṃ dṛṣṭaṃ bhayaṃ dṛṣṭaṃ kvacit kṣaṇe |
+
+yady ekasmin samāśvāsaḥ kim ekasmin na te bhayaṃ || RATNA_02.45
+
+madyāt paribhavo loke kāryahānir dhanakṣayaḥ |
+
+akāryakāraṇam mohāt [ madyam tyaja tataḥ sadā ] || RATNA_02.46
+
+[ 15a ] adharmam anyāyyam api prāyo rājā 'nujīvibhiḥ |
+
+ācaran stūyate tasmāt kṛcchrād vetti kṣamā 'kṣamaṃ || RATNA_04.01
+
+anyo 'pi tāvad yaḥ kaścid durvacaḥ kṣamam apriyam |
+
+kimu rājā mahābhaumas tvaṃ mayā bhikṣuṇā satā || RATNA_04.02
+
+tvatkṛtād eva tu snehāj jagatām anukampayā |
+
+aham eko vadāmi tvāṃ pathyam apy apriyaṃ bhṛśaṃ || RATNA_04.03
+
+satyaṃ ślakṣṇārthavat pathyaṃ śiṣyaḥ kāle 'nukampayā |
+
+vācya ity āha bhagavāṃs tad evam abhidhīyase || RATNA_04.04
+
+akrodhe satyavākye ca ślāghyamāṇo yadi sthitaḥ |
+
+śravyaṃ samparigṛhṇīyāt sattoyaṃ snāpyamānavat || RATNA_04.05
+
+tasya me vadato vākyaṃ tvam ihāmutra ca kṣamaṃ |
+
+jñātvā kuru hitāyedam ātmano jagato 'pi ca || RATNA_04.06
+
+yācakebhyaḥ purā dānāt prāpyārthāṃś cen na dāsyasi |
+
+akṛtajñatvalobhābhyāṃ nārthān punar avāpsyasi || RATNA_04.07
+
+iha pathy adanaṃ loke na vahaty abhṛto bhṛtaḥ |
+
+yācakas tv abhṛto 'mutra hīnaḥ śataguṇadvahaḥ || RATNA_04.08
+
+udāracittaḥ satataṃ bhavodārakriyārataḥ |
+
+udārakarmaṇaḥ sarvam udāraṃ jāyate phalam || RATNA_04.09
+
+manorathair api klībair anālīḍhaṃ narādhipaiḥ |
+
+kuru dharmāspadaṃ śrīmat khyātaṃ ratnatrayāspadam || RATNA_04.10
+
+sāmantarājaromāñcakaraṃ dharmāspadaṃ na yat |
+
+mṛtyasyāpy apraśasyatvād rājaṃs tad akṛtaṃ varam || RATNA_04.11
+
+atyaudāryād [ 15b ] udārāṇāṃ vismayotsāhavardhaṇam |
+
+utsāhaghnaṃ ca mandānāṃ sarvasvenāpi kāraya || RATNA_04.12
+
+utsṛjyāmutra gantavyaṃ sarvasvam avaśena te |
+
+dharme niyuktaṃ yāty eva purastāt sarvam eva tat || RATNA_04.13
+
+sarvasvaṃ pūrvanṛpateḥ nṛpasya vaśam āgataṃ |
+
+kiṃ pūrvakasya dharmāya sukhāya yaśase 'pi vā || RATNA_04.14
+
+bhuktād arthād iha sukhaṃ dattāt pāratrikaṃ sukham |
+
+abhuktādattanaṣṭatvād duḥkham eva kutaḥ sukhaṃ || RATNA_04.15
+
+vinaśyan sacivair dātum asvātantryān na śakyasi |
+
+āpatichedaniḥsnehair navarājapriyaiṣibhiḥ || RATNA_04.16
+
+sarvasvenāpy ataḥ svasthaḥ śīghraṃ dharmāspadaṃ kuru |
+
+mṛtyupratyayamadhyasthaḥ pravātasthapradīpavat || RATNA_04.17
+
+dharmādhikārā ye cānye pūrvarājapravartitāḥ |
+
+devadroṇyādayas te 'pi pravartyantāṃ yathā sthitāḥ || RATNA_04.18
+
+ahiṃsakaiḥ śubhācārair vratasthair atithipriyaiḥ |
+
+sarvakṣamair akalahair bhajyeraṃs taiḥ sado(dya)taiḥ || RATNA_04.19
+
+andhavyādhitahīnāṅgadīnānāthavanīpakāḥ |
+
+te 'py annapānaṃ sāmyena labherann avighaṭṭitāḥ || RATNA_04.20
+
+anarthīnām api satāṃ dhārmikāṇāṃ anugrahān |
+
+apy anyarājyasaṃsthānām anurūpān pravarttaya || RATNA_04.21
+
+sarvadharmādhikāreṣu dharmādhikṛtam utthitaṃ |
+
+alubdhaṃ paṇḍitaṃ dharmyaṃ kuru teṣām abādhakaṃ || RATNA_04.22
+
+nītijñān dhārmikān snigdhān śucīn bhaktān akātarān |
+
+kulinān śīlasampannān [ 16a ] kṛtajñān sacivān kuru || RATNA_04.23
+
+akṣudrāṃs tyāginaḥ śūrān snigdhān sambhoginaḥ sthirān |
+
+kuru nityāpramattāṃs ca dhārmikān daṇḍanāyakān || RATNA_04.24
+
+dharmaśīlān śucīn dakṣān kāryajñān śāstrakovidān |
+
+kṛtavṛttīn samān snigdhān vṛddhān adhikṛtan kuru || RATNA_04.25
+
+pratimāsaṃ ca tebhyas tvaṃ sarvam āyavyayaṃ śṛṇu |
+
+śrutvā dharmādhikārādyaṃ kāryaṃ sarvaṃ svayaṃ vada || RATNA_04.26
+
+dharmārthaṃ yadi te rājyaṃ na kīrtyarthaṃ na kāmataḥ |
+
+tataḥ saphalam atyartham anarthārtham ato 'nyathā || RATNA_04.27
+
+parasparāmiṣībhūte loke 'smin prāyaśo nṛpa |
+
+yathā rājyaṃ ca dharmaś ca bhavet tava tathā śṛṇu || RATNA_04.28
+
+jñānavṛddhā kule jātā nyāyajñāḥ pāpabhīravaḥ |
+
+sametā bahavo nityaṃ santu te kāryadarśinaḥ || RATNA_04.29
+
+daṇḍabandhaprahārādīn kuryus te nyāyato 'pi cet |
+
+kārunyārdraḥ sadā bhūtvā tvam anugrahavān bhava || RATNA_04.30
+
+hitāyaiva tvayā cittam unnāmyaṃ sarvadehinām |
+
+kāruṇyāt satataṃ rājaṃs tīvrapāpakṛtām api || RATNA_04.31
+
+tīvrapāpeṣu hiṃsreṣu kṛpā kāryā viśeṣataḥ |
+
+ta eva hi kṛpāsthānam hatāmāno mahātmanām || RATNA_04.32
+
+pratyahaṃ pañcarātram vā baddhān kṣīnān vimocaya |
+
+śeṣān api yathāyogaṃ mā kāṃścit naiva mocaya || RATNA_04.33
+
+yeṣv amokṣaṇacittaṃ te jāyate teṣv asaṃvaraḥ |
+
+tasmād asaṃvarāt pāpam ajasram upacīyate || RATNA_04.34
+
+[ 16b ] yāvac ca na vimucyeraṃs tāvat syuḥ sukhabandhanāḥ |
+
+nāpitasnānapānānnabhaiṣajyavasanānvitāḥ || RATNA_04.35
+
+apātreṣv iva putreṣu pātrīkaraṇakāṅkṣayā |
+
+kāruṇy [ āt tāḍanam kāryaṃ na dveṣān ] nārthalipsayā || RATNA_04.36
+
+vimṛśya saṃyag vijñāya praduṣṭān ghātakān api |
+
+ahatvā 'pīḍayitvā ca kuru nirviṣayān narān || RATNA_04.37
+
+svatantraḥ paśya sarvaṃ ca viṣayaṃ cāracakṣuṣā |
+
+nityāpramattaḥ smṛtimān kuru kāryaṃ ca dhārmikaṃ || RATNA_04.38
+
+pradānamānasatkārair guṇasthān satataṃ bhaja |
+
+udārair anurūpais tu śeṣān api yathāvidhi || RATNA_04.39
+
+sammānasphītakusumaḥ sampradānamahāphalaḥ |
+
+rājavṛkṣaḥ kṣamācchāyaḥ sevyate bhṛtyaprakṣibhiḥ || RATNA_04.40
+
+tyāgaśīlamayo rājā tejasvī bhavati priyaḥ |
+
+śarkarāmodako yadvad elāmaricakarkaśaḥ || RATNA_04.41
+
+mātsyanyāyaś ca te naivaṃ nyāyād rājyaṃ bhaviṣyati |
+
+na cānyāyo na vā 'dharmo dharmaś caivaṃ bhaviṣyati || RATNA_04.42
+
+paralokāt tvayā rājyaṃ nānītaṃ nāpi neṣyasi |
+
+dharmāt prāptam ato 'syārthe nādharmaṃ kartum arhasi || RATNA_04.43
+
+rājyena bhāṇḍamūlyena duḥkhabhāṇḍaparamparām |
+
+rājan yathā nārjayasi prayatnaḥ kriyatāṃ tathā || RATNA_04.44
+
+rājyena bhāṇḍamūlyena rājyabhāṇḍaparamparāṃ |
+
+rājan yathā nirviśasi prayatnaḥ kriyatāṃ tathā || RATNA_04.45
+
+caturdvīpām api prāpya pṛthivīṃ cakravartinaḥ [ 17a ] |
+
+śārīraṃ mānasaṃ caiva sukhadvayam idaṃ matam || RATNA_04.46
+
+duḥkhapratikriyāmātraṃ śārīraṃ vedanāsukhaṃ |
+
+saṃjñāmayaṃ mānasaṃ tu kevalaṃ kaplpanākṛtaṃ || RATNA_04.47
+
+duḥkhapratikriyāmātraṃ kalpanāmātram eva ca |
+
+lokasya sukhasarvasvaṃ vyartham etad ato 'rthataḥ || RATNA_04.48
+
+dvīpadeśapurāvāsapradeśasānavāsasāṃ |
+
+śayyā 'nnapānahastyastyaśvastrīṇāṃ caikaikabhogyatā || RATNA_04.49
+
+yadā ca yatra cittaṃ syāt tadānena sukhaṃ kila |
+
+śeṣāṇām amanaskārāt teṣāṃ vyarthatvam arthataḥ || RATNA_04.50
+
+viṣayān pañcabhiḥ pañca cakṣurādibhir indriyaiḥ |
+
+na kalpayati yed gṛhṇan nāsmāt teṣu tadā sukhaṃ || RATNA_04.51
+
+jānīte viṣayaṃ yaṃ yaṃ yena yenendriyeṇa ca |
+
+tadā na śeṣaiḥ śeṣāṇi vyarthāny eva yatas tadā || RATNA_04.52
+
+indriyair upalabdhasya viṣayasyākṛtiṃ manaḥ |
+
+upalabhya vyatītasya kalpayan manyate sukhaṃ || RATNA_04.53
+
+ekam arthaṃ vijānāti yady apy ekam ihendriyaṃ |
+
+tad apy arthaṃ vinā vyarthaṃ vyartho 'rtho 'pi ca tad vinā || RATNA_04.54
+
+pratītya mātāpitarau yathoktaḥ putrasambhavaḥ |
+
+cakṣūrūpe pratītyaivam ukto vijñānasaṃbhavah || RATNA_04.55
+
+atītānāgatā vyarthāḥ viṣayāḥ sārdham indriyaiḥ |
+
+taddvayānatiriktatvād vyarthā ye 'pi ca sāmpratāḥ || RATNA_04.56
+
+alātacakraṃ gṛhṇāti yathā cakṣur viparyayāt |
+tathendriyāṇi [ 17b ] gṛhṇanti viṣayān sāmpratān iva || RATNA_04.57
+
+indriyāṇīndriyārthāś ca pañcabhūtamayā matāḥ |
+
+pratisvaṃ bhūtavaiyarthyād eṣāṃ vyarthatvam arthataḥ || RATNA_04.58
+
+nirindhano 'gnir bhūtānāṃ vinirbhāge prasajyate |
+
+saṃparke lakṣaṇābhāvaḥ śeṣeṣv apy eṣa nirṇayaḥ || RATNA_04.59
+
+evaṃ dvidhāpi bhūtānāṃ vyarthatvāt saṅgatir vṛthā |
+
+vyarthatvāt saṅgateś caivaṃ rūpaṃ vyartham ato 'rthataḥ || RATNA_04.60
+
+vijñānavedanāsaṃjñāsaṃskārāṇām ca sarvaśaḥ |
+
+pratyekam ātmavaiyarthyād vaiyarthyaṃ paramārthataḥ || RATNA_04.61
+
+sukhābhimāno duḥkhasya pratīkāre yathārthataḥ |
+
+tathā duhkhābhimāno 'pi sukhasya pratighātajaḥ || RATNA_04.62
+
+sukhe saṃyogatṛṣṇaivaṃ naiḥsvābhāvyāt prahīyate |
+
+duḥkhe viyogatṛṣṇā ca paśyatāṃ muktir ity ataḥ || RATNA_04.63
+
+kaḥ paśyatīti cec cittaṃ vyavahāreṇa kathyate |
+
+na hi caittaṃ vinā cittaṃ vyarthatvān na saheṣyate || RATNA_04.64
+
+vyartham evaṃ jagan matvā yāthābhūtyān nirāspadaḥ |
+
+nirvāti nirupādāno nirupādānavahnivat || RATNA_04.65
+
+bodhisattvo 'pi dṛṣṭvaivaṃ sambodhau niyato mataḥ |
+
+kevalaṃ tv asya kāruṇyād ābodher bhavasaṃtatiḥ || RATNA_04.66
+
+bodhisattvasya saṃbhāro mahāyāne tathāgataiḥ |
+
+nirdiṣṭaḥ sa tu sammūḍhaiḥ pradviṣṭaiś caiva nindyate || RATNA_04.67
+
+guṇadoṣānabhijño vā doṣasaṃjñī guṇeṣu vā |
+
+athavāpi guṇadveṣī mahāyānasya nindakaḥ || RATNA_04.68
+
+paropaghātino [ 18a ] doṣān parānugrahiṇo guṇān |
+
+jñātvocyate guṇadveṣī mahāyānasya nindakaḥ || RATNA_04.69
+
+yat svārthanirapekṣatvāt parāthaikarasapriyaṃ |
+
+guṇākaraṃ mahāyānaṃ tad dveṣī tena dahyate || RATNA_04.70
+
+śrāddho 'pi durgṛhītena dviṣyāt kruddho 'thavetaraḥ |
+
+śrāddho 'pi dagdha ity uktaḥ kā cintā dveṣabandhure || RATNA_04.71
+
+viṣeṇāpi viṣaṃ hanyād yathaivoktaṃ cikitsakaiḥ |
+
+duḥkhenāpy ahitaṃ hanyād ity ukte kiṃ virudhyate || RATNA_04.72
+
+manaḥpūrvaṅgamā dharmā manaḥśreṣṭhā iti śruteḥ |
+
+hitaṃ hitamanāḥ kurvan duḥkenāpy ahitaṃ kathaṃ || RATNA_04.73
+
+duḥkham apy āyatīpathyaṃ kāryaṃ kimu sukhaṃ hitaṃ |
+
+ātmanaś ca pareṣāṃ ca dharma eṣa sanātanaḥ || RATNA_04.74
+
+mātrāsukhaparityāgāt paścāc ced vipulaṃ sukhaṃ |
+
+tyajen mātrāsukhaṃ dhīraḥ saṃpaśyan vipulaṃ sukhaṃ || RATNA_04.75
+
+na mṛṣyate ca yady etat kaṭubhaiṣajyadāyinaḥ |
+
+tataś cikitsakādyāś ca hatā naivaṃ ca yujyate || RATNA_04.76
+
+apathyam api yad dṛṣṭaṃ tat pathyaṃ paṇḍitaiḥ kvacit |
+
+utsargaś cāpavādaś ca sarvaśāstreṣu śaṃsyate || RATNA_04.77
+
+karuṇāpūrvakāḥ sarve niṣyandā jñānanirmalāḥ |
+
+uktā yatra mahāyāne kas tan nindet sacetanaḥ || RATNA_04.78
+
+atyaudāryātigāmbhīryād viṣaṇṇair akṛtātmabhiḥ |
+
+nindyate 'dya mahāyānaṃ mohāt svaparavairibhiḥ || RATNA_04.79
+
+dānaśīlakṣamāvīryadhyānaprajñākṛpātmakaṃ [ 18b ] |
+
+mahāyānam atas tasmin kasmād durbhāṣitaṃ vacaḥ || RATNA_04.80
+
+parārtho dānaśīlābhyāṃ kṣāntyā vīryeṇa cātmanaḥ |
+
+dhyānaṃ prajñā ca mokṣāya mahāyānārthasaṃgrahaḥ || RATNA_04.81
+
+parā [ tmahita ] mokṣārthāḥ saṃkṣepād buddhaśāsanaṃ |
+
+te saṭpāramitāgarbhās tasmād bauddham idaṃ vacaḥ || RATNA_04.82
+
+puṇyajñānamayo yatra buddhair bodher mahāpathaḥ |
+
+deśitas tan mahāyānam ajñānād vai na dṛśyate || RATNA_04.83
+
+kham ivācintyaguṇatvād ukto 'cintyaguṇo jinaḥ |
+
+mahāyāne yato buddhamāhātmyaṃ kṣamyatām idam || RATNA_04.84
+
+āryaśāradvatasyāpi śīlamātre 'py agocaraḥ |
+
+yasmāt tad buddhamāhātmyam acintyaṃ kiṃ na mṛṣyate || RATNA_04.85
+
+anutpādo mahāyāne pareṣāṃ śūnyātā kṣayaḥ |
+
+kṣayānutpādāyoś caikyam arthataḥ kṣamyatāṃ yataḥ || RATNA_04.86
+
+śūnyatābuddhamāhātmyam evaṃ yuktyānupaśyatāṃ |
+
+mahāyānetaroktāni na sameyuḥ kathaṃ satāṃ || RATNA_04.87
+
+tathāgatābhisandhyoktāny asukhaṃ jñātum ity ataḥ |
+
+ekayānatriyānoktād ātmā rakṣya upekṣayā || RATNA_04.88
+
+upekṣayā hi nāpuṇyam dveṣāt pāpaṃ kutaḥ śubhaṃ |
+
+mahāyāne yato dveṣo nātmakāmaiḥ kṛto 'rhati || RATNA_04.89
+
+na bodhisattvapraṇidhir na caryāpariṇāmanā |
+
+uktāḥ śrāvakayāne 'smād bodhisattvaḥ kutas tataḥ || RATNA_04.90
+
+adhiṣṭhānāni noktāni [ 19a ] bodhisattvasya bodhaye |
+
+buddhair anyat pramāṇaṃ ca ko 'smin arthe jinādhikaḥ || RATNA_04.91
+
+adhiṣṭānāryasatyārthabodhipakṣopasaṃhitāt |
+
+mārgāc chrāvakasāmānyād bauddhaṃ kenādhikaṃ phalaṃ || RATNA_04.92
+
+bodhicaryāpratiṣṭhārthaṃ na sūtre bhāṣitaṃ vacaḥ |
+
+bhāṣitaṃ ca mahāyāne grāhyam asmād vicakṣaṇaiḥ || RATNA_04.93
+
+yathaiva vaiyākaraṇo mātṛkām api pāṭhayet |
+
+buddho 'vadat tathā dharmaṃ vineyānāṃ yathākṣamaṃ || RATNA_04.94
+
+keṣāṃcid avadad dharmaṃ pāpebhyo vinivṛttaye |
+
+keṣāṃcit puṇyasiddhyarthaṃ keṣāṃcid dvayaniḥśritaṃ || RATNA_04.95
+
+dvayāniśritam ekeṣāṃ gāmbhīraṃ bhīrubhīṣaṇaṃ |
+
+śūnyatākaruṇāgarbham ekeṣāṃ bodhisādhanaṃ || RATNA_04.96
+
+iti sadbhir mahāyāne kartavyaḥ pratighakṣayaḥ |
+
+prasādaś cādhikaḥ kāryaḥ saṃyaksaṃbodhisiddhaye || RATNA_04.97
+
+mahāyānaprasādena taduktācaraneṇa ca |
+
+prāpyate 'nuttarā bodhiḥ sarvasaukhyāni cāntarā || RATNA_04.98
+
+dānaśīlakṣamāsatyaṃ gṛhasthasya viśeṣataḥ |
+
+dharma uktaḥ kṛpāgarbhaḥ sa sātmīkriyatāṃ dṛḍhaṃ || RATNA_04.99
+
+atha lokasya vaidharmyād rājyaṃ dharmeṇa duṣkaraṃ |
+
+tato dharmayaśo 'rthaṃ te prayujyādhigamaḥ kṣamaḥ || RATNA_04.100
+
+ratnāvalyām rājavṛttopadeśe nāma caturthaḥ paricchedaḥ |
